@@ -1,0 +1,40 @@
+_repo: The-Grey-Fairy-Book_6746
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+- GITenberg
+tableOfContents: Donkey Skin -- The Goblin Pony -- An Impossible Enchantment -- The
+  Story of Dschemil and Dachemila -- Janni and the Draken -- The Partnership of the
+  Thief and the Liar -- Fortunatus and his Purse -- The Goat-faced Girl -- What came
+  of picking Flowers -- The Story of Bensurdatu -- The Magician's Horse -- The Little
+  Gray Man -- Herr Lazarus and the Draken -- The Story of the Queen of the Flowery
+  Isles -- Udea and her Seven Brothers -- The White Wolf -- Mohammed with the Magic
+  Finger -- Bobino -- The Dog and the Sparrow -- The Story of the Three Sons of Hali
+  -- The Story of the Fair Circassians -- The Jackal and the Spring The Bear -- The
+  Sunchild The Daughter of Buk Ettemsuch -- Laughing Eye and Weeping Eye, or the Limping
+  Fox -- The Unlooked for Prince -- The Simpleton -- The Street Musicians -- The Twin
+  Brothers -- Cannetella -- The Ogre -- A Fairy's Blunder -- Long, Broad, and Quickeye
+  -- Prunella.
+title: The Grey Fairy Book
+url: http://www.gutenberg.org/ebooks/6746
